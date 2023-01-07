@@ -1,26 +1,24 @@
 # how-to-ace-coding-interviews
 
 
-## 1. Leetcode Type of Questions
+## Technical Interviews
 
-### 1.1 Resources
+
+### 1. SWE Resources
 
 - [Blind 75 Leetcode questions list](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions)
 - [Grind 75 study plan](https://www.techinterviewhandbook.org/grind75)
 
-### 1.2 Tips
+#### 1.1 Tips
 
-
-## 2. Front-End Engineering specific Questions
-
-### 2.1 Resources
+### 2. Front-End Engineering Resources
 
 - [BFE.Dev](https://bigfrontend.dev/)
 
-### 2.2
+#### 2.2 Tips
 
 
-## 3. Design-System interview
+## Design-System interview
 
 ### 3.1 Resources
 - [Exponent Yt Channel - DS Interview Prep Playlist](https://www.youtube.com/playlist?list=PLrtCHHeadkHp92TyPt1Fj452_VGLipJnL)
