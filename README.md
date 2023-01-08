@@ -3,7 +3,7 @@
 
 ## Technical Interviews
 
-I've been interviewing for tech companies for quite a while, after receiving offers from some of them I got a sense on what the interviewers typically look for, so I've decided to create this repo in order to help my friends trying to land a job.
+I've been interviewing for tech companies for quite a while, after receiving offers from some of them I got a sense on what the interviewers typically are looking for, so I've decided to create this repo in order to help my friends trying to land a job.
 
 ### 1. SWE Resources
 
