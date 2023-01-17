@@ -1,4 +1,4 @@
-# how-to-ace-coding-interviews
+# how-to-ace-swe-interviews
 
 I've been interviewing for tech companies for quite a while, after receiving offers from some of them I got a sense on what the interviewers are typically looking for, so I've decided to create this repo in order to help my friends trying to land a job.
 
