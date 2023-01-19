@@ -13,7 +13,7 @@ I've been interviewing for tech companies for quite a while, after receiving off
 
 #### 1.1 Tips
 
-- Have a spreadsheet with questions you've solved and analyse how yo've approached the problem, often times you'll find that there are some patterns depending on the style of the question. This [spreadsheet](https://docs.google.com/spreadsheets/d/1A2PaQKcdwO_lwxz9bAnxXnIQayCouZP6d-ENrBz_NXc/edit#gid=0) give you an idea.
+- Have a spreadsheet with questions you've solved and analyse how you've approached the problem, often times you'll find out that there are some patterns depending on the style of the question. This [spreadsheet](https://docs.google.com/spreadsheets/d/1A2PaQKcdwO_lwxz9bAnxXnIQayCouZP6d-ENrBz_NXc/edit#gid=0) give you an idea.
 
 ### 2. Front-End Engineering Resources
 
