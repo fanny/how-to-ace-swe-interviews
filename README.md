@@ -8,8 +8,12 @@ I've been interviewing for tech companies for quite a while, after receiving off
 
 - [Blind 75 Leetcode questions list](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions)
 - [Grind 75 study plan](https://www.techinterviewhandbook.org/grind75)
+- [Leetcode common techniques](https://levelup.gitconnected.com/dont-just-leetcode-follow-the-coding-patterns-instead-4beb6a197fdb)
+- [Algorithms Coding Patterns](https://emre.me/categories/#coding-patterns)
 
 #### 1.1 Tips
+
+- Have a spreadsheet with questions you've solved and analyse how yo've approached the problem, often times you'll find that there are some patterns depending on the style of the question. This [spreadsheet](https://docs.google.com/spreadsheets/d/1A2PaQKcdwO_lwxz9bAnxXnIQayCouZP6d-ENrBz_NXc/edit#gid=0) give you an idea.
 
 ### 2. Front-End Engineering Resources
 
