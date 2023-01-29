@@ -22,10 +22,10 @@ I've been interviewing for tech companies for quite a while, after receiving off
 #### 2.2 Tips
 
 
-## Design-System interview
+## System Design interview
 
 ### 3.1 Resources
-- [Exponent Yt Channel - DS Interview Prep Playlist](https://www.youtube.com/playlist?list=PLrtCHHeadkHp92TyPt1Fj452_VGLipJnL)
+- [Exponent Yt Channel - SD Interview Prep Playlist](https://www.youtube.com/playlist?list=PLrtCHHeadkHp92TyPt1Fj452_VGLipJnL)
 
 ### 3.2 Tips
 
